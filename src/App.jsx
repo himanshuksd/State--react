@@ -1,7 +1,7 @@
 
 
 import './App.css'
-import Form from './form';
+import Counter from './Counter';
 
 function App() {
   
@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <h1>State in reacts</h1>{" "}
-      <Form />
+      <Counter />
     </>
   );
 }
